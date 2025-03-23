@@ -13,7 +13,7 @@ dotenv.config();
 
 
 const PORT = process.env.PORT;
-const _dirname = path.resolve();
+const __dirname = path.resolve();
 
 
 app.use(express.json({ limit: "50mb" })); // Increase JSON payload size
