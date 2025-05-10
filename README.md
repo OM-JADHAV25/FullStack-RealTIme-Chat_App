@@ -4,7 +4,7 @@
 #Project Overview
 This Real-Time Chat Application is a full-stack web application that enables instant messaging with live updates using WebSockets. Built with React.js and Tailwind CSS for the frontend, Node.js & Express for the backend, and MongoDB for data storage, it provides a seamless and interactive chatting experience. The app features user authentication, real-time messaging, and dynamic UI themes, following modern development practices for scalability and responsiveness.
 
-#Tech Stack
+# Tech Stack
 Frontend: React.js (Hooks, Context API) + Tailwind CSS (Responsive UI)
 
 Backend: Node.js, Express (RESTful APIs, WebSocket integration)
