@@ -20,7 +20,7 @@ Authentication: JWT (JSON Web Tokens)
 
 🔐 User Authentication – Secure login & registration using JWT
 
-🎨 Dynamic UI Themes – Switch between light/dark mode
+🎨 Dynamic UI Themes – Switch between 32 Different themes
 
 👥 Active User Status – See who’s online in real-time
 
